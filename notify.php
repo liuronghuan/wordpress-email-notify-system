@@ -181,4 +181,6 @@ function newPostNotify($post_ID) {
 }
 add_action('publish_post', 'newPostNotify');
 
+
+
 ?>
