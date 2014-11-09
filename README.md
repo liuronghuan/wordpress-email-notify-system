@@ -22,8 +22,7 @@ Step2、在functions.php中进行调用include_once('notify.php');
 
 1、注意nitify.php的放置位置以及调用路径必须一致
 
-2、代码第三行定义了一个邮件背景图片，我使用的图片下载地址如下：http://cdn.iwilling.org/img/not3_bg_image.jpg
-  您可以下载使用，注意文件名哦亲！
+2、下载email.jpg文件，放在主题的images文件夹下面,请与代码第三行地址保持一致
   
 3、代码26行定义了一个广告图片，建议大家使用photoshop制作以后换成自己的
 
